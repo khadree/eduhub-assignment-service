@@ -29,7 +29,7 @@
     "sequelize": "^6.32.1"
   },
   "devDependencies": {
-    "@eslint/js": "^10.0.1",
+    "@eslint/js": "^8.57.1",
     "eslint": "^8.57.1",
     "eslint-plugin-vue": "^10.9.2",
     "globals": "^17.7.0",
