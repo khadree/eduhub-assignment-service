@@ -19,4 +19,4 @@ jobs:
       service-name: kadiri-assignment-service # ECR repo name
       language: "javascript"                      # Language for codeql scanning
       trivy-severity: "CRITICAL,HIGH"
-    secrets: inherit                         #  repo secrets automatically
+    secrets: inherit                         # pass all repo secrets automatically
