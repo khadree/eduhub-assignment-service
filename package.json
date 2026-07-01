@@ -46,5 +46,8 @@
     "microservice"
   ],
   "author": "EduHub Academy",
-  "license": "MIT"
+  "license": "MIT",
+  "overrides": {
+    "picomatch": "^4.0.4"
+  }
 }
